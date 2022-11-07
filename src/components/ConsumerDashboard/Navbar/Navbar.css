@@ -1,0 +1,13 @@
+.appLogoConsumer{
+    margin-top: 70px!important;
+    margin-left: -110px;
+    padding-left: 0px;
+    justify-content: start;
+}
+
+#logoConsumer{
+    align-items: flex-start;
+}
+.activeLink{
+    background-color: green !important;
+}

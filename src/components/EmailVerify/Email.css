@@ -1,0 +1,17 @@
+.textemail-account {
+    text-align: center;
+}
+.verify-account{
+    margin-top: 20px;
+}
+
+.spacing{
+    font-size: 14px;
+}
+
+.resendLink{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 0px;
+    margin-top: 0px;
+}

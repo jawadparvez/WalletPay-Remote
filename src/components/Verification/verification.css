@@ -1,0 +1,66 @@
+.mail-icon{
+    margin-top: 169px;
+}
+
+.code-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500!important;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    margin-top: 24px;
+    color: #101828;
+    margin-bottom: 5px;
+}
+
+.number-text{
+    font-weight: 400!important;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+
+}
+
+.center input{
+    margin-top: 5px ;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    font-size: 50px;
+    width: 60px!important;
+    height: 60px!important;
+    color: #0077FF !important;
+    border-radius: 8px;
+    padding: 8px;
+    border: 1px solid #000000!important;
+}
+
+.flex{
+    display: block;
+    margin-left:20px;
+    font-family: Montserrat!important;
+}
+
+.verify-button{
+    margin-top: 30px!important;
+}
+
+.spacing{
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #0077FF;
+}
+
+.css-1ps4owl-MuiTypography-root-MuiLink-root{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.mt-40{
+    margin-top: 40px;
+}

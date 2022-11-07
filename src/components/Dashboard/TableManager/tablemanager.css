@@ -1,0 +1,158 @@
+.bolder-text-modal{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.right-icon-modal{
+    margin-top: 22px;
+}
+
+.center{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+}
+
+.center-text{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0px;
+    color: black;
+}
+.center-textInput{
+    margin-left: 102px;
+    height: 70px;
+    border: 0px;
+    width: 110px;
+    justify-content: center;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.center-heading-modal{
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.center-t{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left:0% !important;
+
+}
+.center-t-ser{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left:25% !important;
+}
+
+.center-t-seats{
+        display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 0%!important;
+
+}
+
+.center-t-c{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 10%!important;
+
+}
+
+.center-t-table{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: -2%!important;
+}
+
+.center-t-status{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: -10%!important;
+}
+.center-t-time{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 20%!important;
+
+}
+
+.center-t-r{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 13%!important;
+
+}
+
+.center-t-party{
+        display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 10%!important;
+}
+.center-t-name{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: -7%!important;
+
+}
+.center-t-number{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: -3%!important;
+
+}
+.center-t-cellphonenumber{
+    display: flex;
+    margin-top: 10px!important;
+    margin-left: 11%!important;
+}
+.center-t-timetab{
+    display: flex;
+    margin-top: 10px !important;
+    margin-left: 12%!important;
+
+}
+.center-t-cellOrder{
+    display: flex;
+    margin-top: 10px!important;
+    margin-left: 26%!important;
+}
+
+.center-t-server{
+    display: flex;
+    text-align: center;
+    padding-left: 0px;
+    margin-top: 10px!important;
+    margin-left: 0% !important;
+
+}
+.center-t-tableserver{
+    display: flex;
+    text-align: left;
+    padding-left: 0px;
+    margin-top: 10px!important;
+    margin-left: 10% !important;
+}

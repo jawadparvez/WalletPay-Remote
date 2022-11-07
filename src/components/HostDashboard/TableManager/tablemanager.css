@@ -1,0 +1,85 @@
+.bolder-text-modal{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.right-icon-modal{
+    margin-top: 22px;
+}
+
+.center{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+}
+
+.center-text{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0px;
+    color: black;
+}
+.center-textInput{
+    margin-left: 102px;
+    height: 70px;
+    border: 0px;
+    width: 110px;
+    justify-content: center;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.center-heading-modal{
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.center-t{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 40px!important;
+    margin-right: 1px;
+}
+
+.center-t-c{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 8px!important;
+    margin-right: 1px;
+}
+
+.center-t-r{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 19px!important;
+    margin-right: 1px;
+}
+.center-t-cell{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 23px!important;
+    margin-right: 1px;
+}
+
+.center-t-server{
+    display: flex;
+    text-align: center;
+    margin-top: 10px!important;
+    margin-left: 23px!important;
+    margin-right: 1px;
+}

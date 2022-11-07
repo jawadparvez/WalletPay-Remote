@@ -1,0 +1,108 @@
+.margin-top{
+    margin-top: 74px;
+}
+
+.title{  
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    margin-top: 18px;
+    text-align: center;
+    margin-bottom: 0px;
+    color: #000000;
+}
+
+.welcome-text{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    margin-top: 0px;
+    margin: bottom 1px;
+    color: #000000;
+}
+
+.left{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px ;
+    margin-bottom: 6px;
+    text-align: left;
+    margin-top: 27px;   
+    color: #000000;
+}
+
+.checkbox{
+    background-color: #FFFFFF;
+    text-align: left;
+    margin-left: 0px;
+    width:15px;
+    height: 15px;
+    margin-top: 15px;
+    color: white;
+}
+
+.p-css{
+    margin-top: 26px;
+    margin-left: -15px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #344054;
+}
+
+.float{
+    margin-top: 26px;
+    float: right;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #0077FF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.signin-button{
+    margin-top: 30px;
+}
+
+.google-button{
+    margin-top: 15px;
+}
+
+.text-align{
+    text-align: left;
+}
+
+p.text-account {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.google-icon{
+    max-width: 30px;
+    max-height: 26px;
+}
+
+.no-account{
+    margin-top: 57%!important;
+    margin-bottom: 5%!important;
+}
+
+.text-account{
+    text-align: end;
+    font-size: 14px;
+    font-weight: 500!important;
+}
+
+.Sign-Up {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500 ;
+    margin-left: 3px!important;
+    float: left;
+    color: #0077FF !important ;
+    margin-top: 0px;
+}

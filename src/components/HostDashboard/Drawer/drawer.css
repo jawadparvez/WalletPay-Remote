@@ -1,0 +1,17 @@
+#sign-out{
+    position: absolute;
+    font-size: 12px;
+    margin-left: 15px;
+    bottom: 0px;
+}
+#sign-outt{
+    position: absolute;
+    margin-bottom: 0px;
+    font-size: 12px;
+    margin-left: 15px;
+    bottom: 0px;
+}
+
+.top{
+    margin-top: 90px!important;
+}

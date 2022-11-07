@@ -1,0 +1,125 @@
+.title{
+    
+    font-weight: 600!important;
+    font-size: 21px!important;
+    line-height: 32px!important;
+    margin-top: 18px!important;
+    text-align: center;
+    margin-bottom: 0px;
+    color: #000000 !important;
+}
+.welcome-text{
+    font-weight: 600!important;
+    font-size: 15px!important;
+    line-height: 32px!important;
+    /* or 213% */
+
+    text-align: center;
+    margin-top: 0px;
+    margin: bottom 1px;
+    color: #000000;
+}
+.text-align{
+    text-align: left;
+}
+
+.left{
+    font-weight: 600!important;
+    font-size: 14px;
+    line-height: 20px !important;
+    margin-bottom: 6px!important;
+    text-align: left;
+    margin-top: 27px;   
+    color: #000000;
+}
+
+.margin-top{
+    margin-top: 74px;
+}
+
+p.text-account {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+.p-css{
+    margin-top: 26px;
+    margin-left: -15px;
+    font-weight: 500!important;
+    font-size: 14px!important;
+    line-height: 20px;
+    color: #344054;
+
+}
+.float{
+    margin-top: 26px!important;
+    float: right;
+    font-weight: 500!important;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: none!important;
+    /* identical to box height, or 143% */
+
+
+    color: #0077FF!important;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.checkbox{
+    background-color: #FFFFFF;
+    /* Gray/300 */
+    text-align: left;
+    margin-left: 0px;
+    width:15px;
+    height: 15px;
+    margin-top: 15px!important;
+    color: white;
+    /* Inside auto layout */
+
+}
+.signin-button{
+    margin-top: 30px!important;
+}
+.google-button{
+    margin-top: 15px!important;
+}
+.google-icon{
+    max-width: 30px;
+    max-height: 26px;
+}
+
+.Sign-UpConsumer {
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500 !important;
+    margin-left: 3px!important;
+    color: #0077FF !important;
+    margin-top: 20px!important;
+    margin-bottom: 20px!important;
+}
+
+.Sign-InConsumer{
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500 !important;
+    margin-left: 3px!important;
+    color: #0077FF !important;
+    margin-top: 130px!important;
+    margin-bottom: 20px!important;
+}
+.text-account{
+    text-align: end;
+    font-size: 14px;
+    font-weight: 500!important;
+}
+
+.no-account{
+    margin-top: 57%!important;
+    margin-bottom: 5%!important;
+}

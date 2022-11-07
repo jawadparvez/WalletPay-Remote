@@ -1,0 +1,41 @@
+.bolderr{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.bolder-menu{
+    margin-left: 10px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.bold-text{
+    font-weight: 500;
+}
+
+.spacing-3{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.margin-top-image{
+    margin-top: 21px;
+}
+
+.margin-top-text{
+    margin-top: 25px;
+}
+
+.hidden{
+    display: none;
+}
