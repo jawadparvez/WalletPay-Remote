@@ -7,10 +7,13 @@ import './resetsuccess.css';
 import { useNavigate } from "react-router-dom";
 
 function ResetSuccess() {
+  //Navigation to the login page.
   let navigate = useNavigate();
   function handleClick() {
     navigate("/");
   }
+
+  //Return Statement
   return (
     <div>
       <Container maxWidth="xs">
